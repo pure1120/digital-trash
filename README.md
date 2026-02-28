@@ -12,5 +12,6 @@
 ## Screenshots / Media
 <img width="1225" height="712" alt="71521772292914_ pic_hd" src="https://github.com/user-attachments/assets/175cf856-7a1b-486a-ba9a-9a0042ea8bb4" />
 <img width="798" height="589" alt="71531772292970_ pic_hd" src="https://github.com/user-attachments/assets/bee2b018-466a-43e0-9651-8240a10ddc56" />
+
 ## Contact / Links
 *[GitHub repo link, website, demo URL](https://github.com/pure1120/digital-trash.git).*
