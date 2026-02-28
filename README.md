@@ -1,8 +1,8 @@
 # Digital-trash
 ## Short Description
-*A local data visualization installation that transforms your personal "Trash" metadata into an interactive shredder experience.
+A local data visualization installation that transforms your personal "Trash" metadata into an interactive shredder experience.
 ## Concept / Intent
-* We often perceive "deleting" as a process of data vanishing into a void. This project challenges that notion by treating digital debris as a physical archive. By mapping file sizes to the length of paper shreds. It visualizes the hidden "weight" of our abandoned digital lives.
+We often perceive "deleting" as a process of data vanishing into a void. This project challenges that notion by treating digital debris as a physical archive. By mapping file sizes to the length of paper shreds. It visualizes the hidden "weight" of our abandoned digital lives.
 ## Technology Used
 *Node.js*
 ## How to Run / Install
