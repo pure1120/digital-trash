@@ -1,16 +1,17 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Digital-trash
+## Short Description
+*A local data visualization installation that transforms your personal "Trash" metadata into an interactive shredder experience.*
+## Concept / Intent
+* We often perceive "deleting" as a process of data vanishing into a void. This project challenges that notion by treating digital debris as a physical archive. By mapping file sizes to the length of paper shreds. It visualizes the hidden "weight" of our abandoned digital lives.
+*
+## Technology Used
+*Node.js*
+## How to Run / Install
+*npm install, node read_trash.cjs and npm run dev.*
+## Requirements
+*Node.js.*
+## Screenshots / Media
+#<img width="1225" height="712" alt="71521772292914_ pic_hd" src="https://github.com/user-attachments/assets/175cf856-7a1b-486a-ba9a-9a0042ea8bb4" />
+#<img width="798" height="589" alt="71531772292970_ pic_hd" src="https://github.com/user-attachments/assets/bee2b018-466a-43e0-9651-8240a10ddc56" />
+## Contact / Links
+*GitHub repo link, website, demo URL.*
