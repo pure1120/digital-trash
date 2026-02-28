@@ -1,0 +1,110 @@
+[
+  {
+    "id": "real-shred-0",
+    "name": ".DS_Store",
+    "size": 26628,
+    "color": "#F5F5F5",
+    "borderColor": "#CCCCCC",
+    "label": "System",
+    "deletedAt": "2026-02-28"
+  },
+  {
+    "id": "real-shred-1",
+    "name": "3-斯芬克-推荐信素材收集表.doc",
+    "size": 3531573,
+    "color": "#F5F5F5",
+    "borderColor": "#CCCCCC",
+    "label": "System",
+    "deletedAt": "2025-12-29"
+  },
+  {
+    "id": "real-shred-2",
+    "name": "ACTIVITY 3_ Web Services on Render.pdf",
+    "size": 866049,
+    "color": "#FFFFFF",
+    "borderColor": "#E0E0E0",
+    "label": "Document",
+    "deletedAt": "2026-01-29"
+  },
+  {
+    "id": "real-shred-3",
+    "name": "LAB ACTIVITY 1_ Make a Render Account.pdf",
+    "size": 83231,
+    "color": "#FFFFFF",
+    "borderColor": "#E0E0E0",
+    "label": "Document",
+    "deletedAt": "2026-01-29"
+  },
+  {
+    "id": "real-shred-4",
+    "name": "Proposal for an Immersive Project.docx",
+    "size": 2514146,
+    "color": "#FFFFFF",
+    "borderColor": "#E0E0E0",
+    "label": "Document",
+    "deletedAt": "2026-01-02"
+  },
+  {
+    "id": "real-shred-5",
+    "name": "Trash bin with paper waste on white stock photos.jpg",
+    "size": 52922,
+    "color": "#EBF4FA",
+    "borderColor": "#B0C4DE",
+    "label": "Image",
+    "deletedAt": "2026-02-28"
+  },
+  {
+    "id": "real-shred-6",
+    "name": "WCC2 (DCT) Week 4 Lecture.pptx (5).pdf",
+    "size": 3732538,
+    "color": "#FFFFFF",
+    "borderColor": "#E0E0E0",
+    "label": "Document",
+    "deletedAt": "2026-02-05"
+  },
+  {
+    "id": "real-shred-8",
+    "name": "Week 5 Lab_ NASA APOD API (1).pdf",
+    "size": 218927,
+    "color": "#FFFFFF",
+    "borderColor": "#E0E0E0",
+    "label": "Document",
+    "deletedAt": "2026-02-12"
+  },
+  {
+    "id": "real-shred-9",
+    "name": "duck1.png",
+    "size": 422917,
+    "color": "#EBF4FA",
+    "borderColor": "#B0C4DE",
+    "label": "Image",
+    "deletedAt": "2026-01-24"
+  },
+  {
+    "id": "real-shred-10",
+    "name": "duck2.png",
+    "size": 483388,
+    "color": "#EBF4FA",
+    "borderColor": "#B0C4DE",
+    "label": "Image",
+    "deletedAt": "2026-01-24"
+  },
+  {
+    "id": "real-shred-11",
+    "name": "game.HEIC",
+    "size": 1797773,
+    "color": "#F5F5F5",
+    "borderColor": "#CCCCCC",
+    "label": "System",
+    "deletedAt": "2026-01-21"
+  },
+  {
+    "id": "real-shred-12",
+    "name": "截屏2026-02-05 21.19.37.png",
+    "size": 777786,
+    "color": "#EBF4FA",
+    "borderColor": "#B0C4DE",
+    "label": "Image",
+    "deletedAt": "2026-02-05"
+  }
+]
